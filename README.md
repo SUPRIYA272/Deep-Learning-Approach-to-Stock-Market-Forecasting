@@ -16,3 +16,4 @@ The model is trained on historical stock data and can predict future closing pri
 - SARIMA
 - PROPHET
 - LSTM
+  
